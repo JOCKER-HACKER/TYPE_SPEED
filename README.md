@@ -56,11 +56,11 @@ Version: 1.0: Updated
 ## Demo images
 
 ## Screenshot 1
-![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX4e4O2j4SIorXA2_Gi0CVENxfkT1Kv6JOdnsf68awQEf0V9dSCSVwdmKrbqiBY_zlClBhSo-tjA3ymqJGzyOsycYZhJj-hpTuQIeLIwOsBscLXKjdqTOO94TMG4QGxkDrS8T81H55OWXxo3EsHIOeVJP_LCdknqlcQPgWx6ulS4fBYD7PY0UUBocd/w128-h128-p-k-no-nu/Screenshot_2022_1007_180829.png)
+![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX4e4O2j4SIorXA2_Gi0CVENxfkT1Kv6JOdnsf68awQEf0V9dSCSVwdmKrbqiBY_zlClBhSo-tjA3ymqJGzyOsycYZhJj-hpTuQIeLIwOsBscLXKjdqTOO94TMG4QGxkDrS8T81H55OWXxo3EsHIOeVJP_LCdknqlcQPgWx6ulS4fBYD7PY0UUBocd/w375-h420/Screenshot_2022_1007_180829.png)
 
 ## Screenshot 2 
 
-![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggVl2eU7TCebjNV1fmI_rw_TfsrCuWHrLD3Ugg5ip46uPnrJvwrVCcmg2SpTUp8Sp32wIgKV-m8HVxvKpgJwGcAK-m2CrqxHrslqETBgETlxxfLsm1VnxqbR8owzLvINpKR_b-Rv8YzBn29OufNe6LN2WWjKo43KyxpV0r3jTZtlRJe9wxb7rIK_Pj/w192-h320/Screenshot_2022_1007_180953~2.jpg)
+![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggVl2eU7TCebjNV1fmI_rw_TfsrCuWHrLD3Ugg5ip46uPnrJvwrVCcmg2SpTUp8Sp32wIgKV-m8HVxvKpgJwGcAK-m2CrqxHrslqETBgETlxxfLsm1VnxqbR8owzLvINpKR_b-Rv8YzBn29OufNe6LN2WWjKo43KyxpV0r3jTZtlRJe9wxb7rIK_Pj/w346-h511/Screenshot_2022_1007_180953~2.jpg)
 
 ## Screenshot 3
 
