@@ -3,6 +3,7 @@ TYPE_SPEED is a tool which is used for calculating Typing Speed of user not only
 
 
 ## Features
+## This tool can calculate:
 
 - Accuracy 
 - Raw-Speed 
