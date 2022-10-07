@@ -1,3 +1,4 @@
+#Version 1.0
 import random
 import time
 from colorama import Fore, Back, Style,init
@@ -347,4 +348,3 @@ elif user ==3:
 else:
     print(' '+Fore.LIGHTGREEN_EX+'INVALID OPR...')
 ##############################
-
